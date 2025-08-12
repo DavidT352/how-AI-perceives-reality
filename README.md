@@ -14,8 +14,9 @@ Each entry combines:
 - A key takeaway or reflection
 
 ## 📚 Table of Contents
-1. 1. [Entry #1: The Library in the Sky — How AI “Sees” the World](entries/01-library-in-the-sky.md)
-2. 
+1. [Entry #1: The Library in the Sky — How AI “Sees” the World](entries/01-library-in-the-sky.md)
+2. 2. [Entry #2: The Puzzle Game — How AI Thinks Like Putting Pieces Together](entries/02-puzzle-game.md)
+
 
 ---
 
