@@ -18,6 +18,7 @@ Each entry combines:
 2. [Entry #2: The Puzzle Game — How AI Thinks Like Putting Pieces Together](entries/02-puzzle-game.md)
 3. [Entry #3: The Card Table — How AI Plays Its Hand for Seniors](entries/03-card-table.md)
 4. [Entry #4: The Library Team — How AI “Thinks” Behind the Scenes](entries/04-library-team.md)
+5. [Entry #5: The Symphony of AI — How AI Composes Its Answers for Musicians](entries/05-symphony-of-ai.md)
 
 
 
