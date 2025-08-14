@@ -17,6 +17,8 @@ Each entry combines:
 1. [Entry #1: The Library in the Sky — How AI “Sees” the World](entries/01-library-in-the-sky.md)
 2. [Entry #2: The Puzzle Game — How AI Thinks Like Putting Pieces Together](entries/02-puzzle-game.md)
 3. [Entry #3: The Card Table — How AI Plays Its Hand for Seniors](entries/03-card-table.md)
+4. [Entry #4: The Library Team — How AI “Thinks” Behind the Scenes](entries/04-library-team.md)
+
 
 
 ---
