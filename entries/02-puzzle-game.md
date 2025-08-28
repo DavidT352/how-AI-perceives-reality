@@ -10,7 +10,20 @@ Metaphor-Driven Explanation for Children (Age ~10)
 - Playful Tone — Making learning fun and relatable  
 
 📬 **Prompt:**  
-Explain how AI receives, processes, and produces answers using the analogy of a puzzle game. Make it easy to understand for 10-year-olds, using 5 bullet points, all explained through playful analogies.
+
+
+## ASK
+Explain how AI receives, processes, and produces answers using the analogy of a puzzle game.  
+
+## CONTEXT
+The explanation should be simple and playful, designed for a 10-year-old audience. The goal is to make the inner workings of AI fun, relatable, and easy to visualize.  
+
+## CONSTRAINTS
+- Use the analogy of a **puzzle game**.  
+- Present the explanation in **5 bullet points**.  
+- Each bullet point should rely on playful analogies.  
+- Keep the tone light, simple, and engaging for kids.  
+
 
 ✉️ **Response:**  
 Imagine AI like a magical puzzle game that helps answer your questions:
