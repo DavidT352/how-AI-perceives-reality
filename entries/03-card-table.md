@@ -11,7 +11,19 @@ Metaphor-Driven Explanation for Older Adults (Age ~70+)
 - **Technical Anchoring** — Each analogy linked to a real AI function  
 
 ### 📬 Prompt
-Explain how AI receives, processes, and produces answers using the analogy of a friendly card game. Make it easy to understand for a 70+ audience who may have little to no tech experience. Use 5 short bullet points, all tied to real technical processes, in a soft and easy-going tone.
+
+## ASK
+Explain how AI receives, processes, and produces answers using the analogy of a friendly card game.  
+
+## CONTEXT
+The explanation should be simple, soft, and easy-going, designed for an audience aged 70+ with little to no tech experience. The goal is to make AI’s inner workings approachable and relatable.  
+
+## CONSTRAINTS
+- Use the analogy of a **friendly card game**.  
+- Present the explanation in **5 short bullet points**.  
+- Each bullet point should tie back to a real technical process.  
+- Maintain a soft, easy-going tone — avoid technical jargon.  
+
 
 ### ✉️ Response
 Imagine AI as a friendly player at your card table, always ready for a new round:
