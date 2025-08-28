@@ -10,9 +10,18 @@ Metaphor-Driven Explanation for Non-Technical Audiences
 - Calm, Engaging Tone — Making complex AI concepts accessible and relatable  
 
 ## 📬 Prompt:
-From the perspective of a large language model (LLM) like ChatGPT—which lacks sensory input, conscious thought, and memory unless context is provided—explain how it processes data and generates responses in a way that a curious, non-technical audience can understand.  
 
-Use the analogy of a vast library to describe, in 5 clear, standalone bullet points, how the AI processes inputs, selects information, and creates outputs. Ensure the analogies are engaging and grounded in the underlying technical principles (e.g., parallel processing, contextual attention, probabilistic prediction), but do not include technical jargon in the response itself.  
+## ASK
+From the perspective of a large language model (LLM) like ChatGPT—which lacks sensory input, conscious thought, and memory unless context is provided—explain how it processes data and generates responses in a way that a curious, non-technical audience can understand.
+
+## CONTEXT
+The goal is to make the explanation accessible and engaging. Use analogies instead of technical language so that someone with no background in AI can follow and enjoy the reasoning.
+
+## CONSTRAINTS
+- Use the analogy of a vast library.  
+- Present the explanation in **5 clear, standalone bullet points**.  
+- Analogies should remain engaging but grounded in the underlying principles (e.g., parallel processing, contextual attention, probabilistic prediction).  
+- Avoid technical jargon in the final output.   
 
 ## ✉️ Response:
 Imagine an enormous library containing every piece of information the AI has ever been trained on. Here’s how the AI operates, step-by-step, like a master librarian:
